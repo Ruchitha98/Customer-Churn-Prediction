@@ -125,6 +125,6 @@ pip install -r requirements.txt
 
 ## Author
 
-Ruchitha Sampath
+Ruchitha Sampath Weerasekara
 
 MSc Data Science | Software Engineer | Machine Learning Enthusiast
