@@ -109,6 +109,20 @@ Accuracy: 79.0%
 
 ---
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ruchitha98/Customer-Churn-Prediction.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Author
 
 Ruchitha Sampath
